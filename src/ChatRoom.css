@@ -1,11 +1,11 @@
-.App {
+.ChatRoom {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   height: 100vh;
 }
 
-.App-header {
+.ChatRoom-header {
   background-color: #262626;
   overflow: visible;
   width: 100%;
